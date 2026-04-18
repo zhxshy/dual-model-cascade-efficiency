@@ -12,7 +12,7 @@ This approach ensures high accuracy in difficult conditions (dirt on license pla
 - `data/`: Sample images from the "Uralsk Urban Dataset".
   - `day/`: Images captured during daylight.
   - `evening/`: Images captured during evening/low-light conditions.
-  - `context/`: Fieldwork documentation showing the geographical locations and street-name signage in Uralsk, used to verify the "Uralsk Urban Dataset" authenticity.
+  - `context/`: Fieldwork documentation and location reference in Uralsk.
 - `requirements.txt`: List of necessary Python libraries.
 
 ## Implementation Details
