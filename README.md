@@ -30,5 +30,5 @@ The project utilizes:
 3. Run the inference test:
 python test_models.py
 
-Author
+Author:
 Zhoshy Khalelov 10th-grade student, NIS Oral, Kazakhstan.
