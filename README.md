@@ -24,7 +24,7 @@ The project utilizes:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/zhxshy/dual-model-cascade-efficiency.git](https://github.com/zhxshy/dual-model-cascade-efficiency.git)
 2. Install dependencies:
    pip install -r requirements.txt
 3. Run the inference test:
