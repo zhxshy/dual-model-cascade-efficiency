@@ -18,7 +18,7 @@ This approach ensures high accuracy in difficult conditions (dirt on license pla
 The project utilizes:
 - **Primary Model:** MobileNetV3-Small (Pre-trained on ImageNet).
 - **Secondary Model:** EfficientNet-B0 (Pre-trained on ImageNet).
-- **Inference Logic:** - If $P_{max} \geq > 0.85: Accept Light Model result.
+- **Inference Logic:** - If $P_{max} > 0.85$: Accept Light Model result.
   - If $P_{max} < 0.85$: Activate Heavy Model.
 
 ## How to Run
