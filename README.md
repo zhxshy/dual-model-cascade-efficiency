@@ -14,7 +14,7 @@ This approach ensures high accuracy in difficult conditions (dirt on license pla
   - `evening/`: Images captured during evening/low-light conditions.
   - `context/`: Fieldwork documentation and location reference in Uralsk.
 - `requirements.txt`: List of necessary Python libraries.
-**Note:** Image filenames reflect the original timestamps of data collection via mobile devices during field research in Uralsk.
+- **Note:** Image filenames reflect the original timestamps of data collection via mobile devices during field research in Uralsk.
 
 ## Implementation Details
 The project utilizes:
